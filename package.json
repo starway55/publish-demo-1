@@ -1,0 +1,15 @@
+{
+  "name": "@starway55/publish-package-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": "git@github.com:starway55/publish-demo-1.git"
+  }
+}
